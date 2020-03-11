@@ -5,10 +5,10 @@
 
 ## Related Projects
 
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
+  - https://github.com/HRLA-35-FEC-CBDE/Danny_NavBar
+  - https://github.com/HRLA-35-FEC-CBDE/Brandon_body
+  - https://github.com/HRLA-35-FEC-CBDE/Eric_Desc-Related-Complimentary
+  - https://github.com/HRLA-35-FEC-CBDE/chris_reviews
 
 ## Table of Contents
 
