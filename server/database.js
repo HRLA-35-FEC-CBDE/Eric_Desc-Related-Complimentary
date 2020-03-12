@@ -9,7 +9,7 @@ db.once('open', function() {
 
 const sellingPointSchema = mongoose.Schema({
   productID: Number,
-  description: String,
+  sellingPoint: String,
 });
 
 // Lorem ipsum
@@ -21,8 +21,7 @@ const descriptionSchema = mongoose.Schema({
 // Lorem ipsum
 const techSpecSchema = mongoose.Schema({
   productID: Number,
-  specTitle: String,
-  spec: String,
+  specs: [],
 });
 
 const itemsSchema = mongoose.Schema({
