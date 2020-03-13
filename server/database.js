@@ -12,13 +12,11 @@ const sellingPointSchema = mongoose.Schema({
   sellingPoint: String,
 });
 
-// Lorem ipsum
 const descriptionSchema = mongoose.Schema({
   productID: Number,
   description: Array,
 });
 
-// Lorem ipsum
 const techSpecSchema = mongoose.Schema({
   productID: Number,
   specs: [],
